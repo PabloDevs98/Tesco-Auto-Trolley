@@ -1,0 +1,7 @@
+
+---
+
+## 📄 `requirements.txt`
+```text
+selenium
+python-dotenv
